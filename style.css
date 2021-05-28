@@ -1,0 +1,41 @@
+h1{
+     
+        text-align: center;
+        color:white
+}
+nav{
+    text-align: center;
+    height: 38px;
+    margin: 0px;
+}
+
+a{
+     
+    background-color: blue;
+    padding-top: 3px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    margin: 0px;
+    color: white;
+    
+}
+h5{
+    background-color:#DDD ;
+    padding-top: 2px;
+    padding-bottom: 0px;
+    font-size: 13px;
+    margin: 0px;
+    font-family: Arial;
+}
+    
+    #cabecalhoPrincipal{
+        background-color: rgb(80, 197, 155);
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    body, #cabecalhoPrincipal h1{
+       
+        margin: 0;
+        
+    }
